@@ -1,0 +1,6 @@
+{
+    "description": "Show a user's avatar",
+    "detailedDescription": {
+        "extendedHelp": "Display a user or member's avatar. If no user is given I'll default to you. If the user is a member of the current server I'll show their server avatar, to bypass this use the `--global` flag."
+    }
+}

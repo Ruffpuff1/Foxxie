@@ -6,6 +6,7 @@
 		"{{LOADING}} Me encargare de eso, ¿quieres hielo?",
 		"{{LOADING}} ¡Oye cocinero! ¡Tenemos una nueva orden!"
 	],
+	"paginatedMessageWrongUserInteractionReply": "{{ERROR}} The buttons on this message are only meant for {{user}}.",
 	"prefixReminder": "¡Hola! Mi prefijo para este servidor es: {{prefixes, codeand}}",
 	"prefixReminder_admin": "-# *If you wanna change it use my {{prefix}}conf command*",
 	"prefixReminder_other": "¡Qué tal! Mis prefijos para este servidor son: {{prefixes, codeand}}"

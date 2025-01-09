@@ -1,7 +1,6 @@
 {
     "description": "View information on many discord entities.",
     "guildCreated": "Created by {{owner, bold}} on {{created, fulldate}} ({{created, duration}})",
-    "guildDescription": "Show basic server information.",
     "guildEmojis": "Static: {{static, number, bold}}\nAnimated: {{animated, number, bold}}",
     "guildMessages": "{{messages, number}} messages sent",
     "guildName": "guild",
@@ -18,24 +17,17 @@
         "security": ":lock: Security",
         "stats": ":bar_chart: Statistics"
     },
-    "name": "info",
-    "optionsBannerDescription": "Whether to show the user's profile banner.",
-    "optionsBannerName": "banner",
-    "optionsNotesDescription": "Whether to show a user's public notes.",
-    "optionsNotesName": "notes",
-    "optionsShowDescription": "Whether to show the response of the command.",
-    "optionsShowName": "show",
-    "optionsUserDescription": "The user to show information on.",
-    "optionsUserName": "user",
-    "optionsWarningsDescription": "Whether to show the user's server warnings.",
-    "optionsWarningsName": "warnings",
-    "userDescription": "View information on any Discord user",
+    "userButtonLabels": {
+        "avatar": "Avatar",
+        "banner": "Banner",
+        "notes": "Notes",
+        "warnings": "Warnings"
+    },
     "userDiscordJoin": "Joined Discord on {{created, fulldate}} ({{created, duration}})",
     "userGuildJoin_create": "Creado {{name}} en {{joined, fulldate}} ({{joined, duration}})",
     "userGuildJoin": "Joined {{name}} on {{joined, fulldate}} ({{joined, duration}})",
     "userMessages": "{{messages, number}} mensajes enviados.",
     "userMessages_percent": "{{messages, number}} mensajes enviados, {{percent}}% de todos los mensajes del servidor.",
-    "userName": "user",
     "userTitles": {
         "about": ":pencil: Estadísticas",
         "notes": ":label: Nota",

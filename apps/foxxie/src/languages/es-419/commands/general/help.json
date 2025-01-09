@@ -16,7 +16,7 @@
         "footer": "Command help for {{footerName}}",
         "title": "{{titleDescription}}"
     },
-    "data_alias": {
+    "dataAlias": {
         "footer": "Command help for {{footerName}}\nAliases: {{aliases, and}}",
         "title": "{{titleDescription}}"
     },

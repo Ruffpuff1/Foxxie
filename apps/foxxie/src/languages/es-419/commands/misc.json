@@ -46,7 +46,7 @@
 	},
 	"reminderDMWarn": "\n\n**Please note that your DMs are closed right now, unless opened I will send the reminder in the channel you created it.**",
 	"reminderEditSuccess": "{{SUCCESS}} Edited the task from {{old, code}} to:\n> {{new}}",
-	"reminderList": "Reminders for {{author}}:",
+	"reminderList": "Reminders for {{author, bold}}:",
 	"reminderNone": "{{ERROR}} You don't currently have any active reminders.",
 	"reminderShow": "On **{{date, fulldatetime}}** im going to remind you:\n> *{{text}}*"
 }
